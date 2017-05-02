@@ -1,0 +1,100 @@
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\project_uas.exe
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\project_uas.pdb
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\obj\x86\Debug\project_uas.Form1.resources
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\obj\x86\Debug\project_uas.Properties.Resources.resources
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\obj\x86\Debug\project_uas.csproj.GenerateResource.Cache
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\obj\x86\Debug\project_uas.csprojResolveAssemblyReference.cache
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Accord.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Accord.Imaging.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Accord.Math.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Controls.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Imaging.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Math.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Ext.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\ZedGraph.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Video.dll
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.pdb
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.xml
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Controls.pdb
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Controls.xml
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\Ext.pdb
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\ZedGraph.xml
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Video.pdb
+E:\PTIIK Semester 3\Pengolahan Citra Digital\project_uas\project_uas\bin\Debug\AForge.Video.xml
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\project_uas.exe
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\project_uas.pdb
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\AForge.Video.dll
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.pdb
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.xml
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\AForge.Controls.pdb
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\AForge.Controls.xml
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\Ext.pdb
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\ZedGraph.xml
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\AForge.Video.pdb
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\bin\Debug\AForge.Video.xml
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\project_uas.Form1.resources
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\project_uas.Properties.Resources.resources
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PTIIK Semester 3\pcd\project_uas\project_uas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\project_uas.exe
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\project_uas.pdb
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\AForge.Video.dll
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.pdb
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.xml
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\AForge.Controls.pdb
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\AForge.Controls.xml
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\Ext.pdb
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\ZedGraph.xml
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\AForge.Video.pdb
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\bin\Debug\AForge.Video.xml
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\project_uas.Form1.resources
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\project_uas.Properties.Resources.resources
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PTIIK Semester 3\pcd\update\project_uas\project_uas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\project_uas.exe
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\project_uas.pdb
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\AForge.Video.dll
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.pdb
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.xml
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\AForge.Controls.pdb
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\AForge.Controls.xml
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\Ext.pdb
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\ZedGraph.xml
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\AForge.Video.pdb
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\bin\Debug\AForge.Video.xml
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\project_uas.Form1.resources
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\project_uas.Properties.Resources.resources
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+E:\PTIIK Semester 3\vaio\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\obj\x86\Debug\project_uas.exe
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\obj\x86\Debug\project_uas.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\project_uas.exe
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\project_uas.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\AForge.Video.dll
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\Accord.Controls.Imaging.xml
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\AForge.Controls.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\AForge.Controls.xml
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\Ext.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\ZedGraph.xml
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\AForge.Video.pdb
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\bin\Debug\AForge.Video.xml
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\obj\x86\Debug\project_uas.csprojResolveAssemblyReference.cache
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\obj\x86\Debug\project_uas.Form1.resources
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\obj\x86\Debug\project_uas.Properties.Resources.resources
+E:\win8\Data\PTIIK Semester 3\Project UAS PCD\project_uas\project_uas\obj\x86\Debug\project_uas.csproj.GenerateResource.Cache
